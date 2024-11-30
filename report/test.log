@@ -1,0 +1,66 @@
+---Test:                         addi.hex
+Detect ADDI command, PC = 00000406, imem_req = 1, imem_addr = 00000410, imem_resp = 1, imem_rdata = df828293
+
+Detect ADDI command, PC = 00000428, imem_req = 1, imem_addr = 0000042c, imem_resp = 1, imem_rdata = 00000293
+
+Detect ADDI command, PC = 00000792, imem_req = 1, imem_addr = 0000079c, imem_resp = 1, imem_rdata = 00108193
+
+Detect ADDI command, PC = 000007ae, imem_req = 1, imem_addr = 000007b8, imem_resp = 1, imem_rdata = 80008193
+
+Detect ADDI command, PC = 000007b2, imem_req = 1, imem_addr = 000007bc, imem_resp = 1, imem_rdata = 80000e93
+
+Detect ADDI command, PC = 000007d0, imem_req = 1, imem_addr = 000007dc, imem_resp = 1, imem_rdata = 80008193
+
+Detect ADDI command, PC = 000007d8, imem_req = 1, imem_addr = 000007e4, imem_resp = 1, imem_rdata = 800e8e93
+
+Detect ADDI command, PC = 000007e6, imem_req = 1, imem_addr = 000007f0, imem_resp = 1, imem_rdata = 7ff08193
+
+Detect ADDI command, PC = 000007ea, imem_req = 1, imem_addr = 000007f4, imem_resp = 1, imem_rdata = 7ff00e93
+
+Detect ADDI command, PC = 000007fa, imem_req = 1, imem_addr = 00000804, imem_resp = 1, imem_rdata = 00008193
+
+Detect ADDI command, PC = 00000824, imem_req = 1, imem_addr = 00000830, imem_resp = 1, imem_rdata = 7ff08193
+
+Detect ADDI command, PC = 0000082c, imem_req = 1, imem_addr = 00000838, imem_resp = 1, imem_rdata = 7ffe8e93
+
+Detect ADDI command, PC = 0000083e, imem_req = 1, imem_addr = 00000848, imem_resp = 1, imem_rdata = 80008193
+
+Detect ADDI command, PC = 00000844, imem_req = 1, imem_addr = 00000850, imem_resp = 1, imem_rdata = 7ffe8e93
+
+Detect ADDI command, PC = 00000852, imem_req = 1, imem_addr = 0000085c, imem_resp = 1, imem_rdata = fff08193
+
+Detect ADDI command, PC = 00000856, imem_req = 1, imem_addr = 00000860, imem_resp = 1, imem_rdata = fff00e93
+
+Detect ADDI command, PC = 000008a4, imem_req = 0, imem_addr = 000008b0, imem_resp = 1, imem_rdata = 00b08193
+
+Detect ADDI command, PC = 000008aa, imem_req = 1, imem_addr = 000008b4, imem_resp = 1, imem_rdata = 00018313
+
+Detect ADDI command, PC = 000008aa, imem_req = 1, imem_addr = 000008b0, imem_resp = 1, imem_rdata = 00b08193
+
+Detect ADDI command, PC = 000008aa, imem_req = 1, imem_addr = 000008b4, imem_resp = 1, imem_rdata = 00018313
+
+Detect ADDI command, PC = 000008c0, imem_req = 0, imem_addr = 000008cc, imem_resp = 1, imem_rdata = 00a08193
+
+Detect ADDI command, PC = 000008c6, imem_req = 1, imem_addr = 000008cc, imem_resp = 1, imem_rdata = 00a08193
+
+Detect ADDI command, PC = 0000091a, imem_req = 0, imem_addr = 00000924, imem_resp = 1, imem_rdata = 00a08193
+
+Detect ADDI command, PC = 0000091c, imem_req = 0, imem_addr = 00000924, imem_resp = 1, imem_rdata = 00a08193
+
+Detect ADDI command, PC = 00000936, imem_req = 0, imem_addr = 00000940, imem_resp = 1, imem_rdata = 00908193
+
+Detect ADDI command, PC = 00000936, imem_req = 0, imem_addr = 00000940, imem_resp = 1, imem_rdata = 00908193
+
+Detect ADDI command, PC = 0000094a, imem_req = 1, imem_addr = 00000954, imem_resp = 1, imem_rdata = 02000093
+
+Detect ADDI command, PC = 0000094c, imem_req = 1, imem_addr = 00000958, imem_resp = 1, imem_rdata = 02000e93
+
+Detect ADDI command, PC = 000009a0, imem_req = 1, imem_addr = 000009a8, imem_resp = 1, imem_rdata = 75428293
+
+Detect ADDI command, PC = 000000f4, imem_req = 1, imem_addr = 000000f8, imem_resp = 1, imem_rdata = 00000013
+
+Test passed
+
+#--------------------------------------
+# Summary: 1/1 tests passed
+#--------------------------------------
